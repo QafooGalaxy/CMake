@@ -1,0 +1,3 @@
+---
+- name: "Install CMake"
+  apt: pkg="cmake" state="latest"
